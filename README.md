@@ -23,4 +23,4 @@ Contact us at www.example.com
 
 ## Thanks
 
-We want to thanks to all our readers and fans.
+We want to thanks to all our readers and fans and family.
