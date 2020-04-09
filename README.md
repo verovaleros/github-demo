@@ -21,3 +21,7 @@ Write us at
 ## Contact
 
 Contact us at www.example.com
+
+## Thanks
+
+We want to thanks to all our readers.
