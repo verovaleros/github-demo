@@ -20,3 +20,7 @@ Write us at
 ## Contact
 
 Contact us at www.example.com
+
+## Version 
+
+Release 1.1
