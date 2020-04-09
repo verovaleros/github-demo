@@ -1,6 +1,6 @@
 # github-demo
 
-New descriptiont here
+This is a sample github-demo. Do not modify.
 
 ## Introduction
 
