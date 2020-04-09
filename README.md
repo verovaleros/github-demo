@@ -1,6 +1,6 @@
 # github-demo
 
-This is a sample github-demo. Do modify.
+This is a sample github-demo. Do modify right now.
 
 ## Introduction
 
