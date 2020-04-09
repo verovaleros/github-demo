@@ -18,3 +18,7 @@ Write us at
 [insert email here]
 
 myemail@gmail.com
+
+## Contact
+
+Contact us at www.example.com
