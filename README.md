@@ -17,7 +17,7 @@ Write us at
 
 [insert email here]
 
-myemail@gmail.com
+MAil@gmail.com
 
 ## Contact
 
