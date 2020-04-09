@@ -23,4 +23,4 @@ Contact us at www.example.com
 
 ## Version 
 
-Release 1.1
+Release 1.2
