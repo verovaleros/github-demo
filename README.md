@@ -17,8 +17,6 @@ Write us at
 
 [insert email here]
 
-MAil@gmail.com
-
 ## Contact
 
 Contact us at www.example.com
