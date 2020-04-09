@@ -16,3 +16,5 @@ A simple demo repository to show the basic Git workflow.
 Write us at 
 
 [insert email here]
+
+myemail@gmail.com
